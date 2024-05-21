@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "Node16",
+    "jsxImportSource": "solid-js",
+  },
+}
